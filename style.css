@@ -1,0 +1,29 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+
+}
+
+body{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+    background-color: rgba(165, 42, 42, 0.437);
+    background-image: url('nature-3082832_1280.jpg');
+    
+}
+div{
+    margin: 10px;
+}
+
+.main{
+    display: flex;
+}
+button{
+    width: 150px;
+    height: 150px;
+    margin: 10px;
+}
